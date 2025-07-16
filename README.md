@@ -1,6 +1,5 @@
-`This was a 24 hour offline hackathon named as HACKNICHE conducted by GDSC DJSCE and Synapse at our college,Dwarkadas J. Sanghvi College of Enginnering on 17th and 18th February,2023.We got shortlisted among 1100+ participants in the 1st Round(Resume selection) and got an opportunity to work on a solution to solve this problem statement.We learned a lot from the experience and gained valuable skills in teamwork, problem-solving, and coding.I will update the Tech Stack used and Implementation Features here very soon.`
 
-<h1><i>Dyme-Manage all your Finance at One Place</i></h1>
+<h1><i>Personal Finance Management System</i></h1>
 
 # Problem Statement 
 ### Automating the process of financial planning and investment management using AI-powered wealth management systems. The platform should provide features like budgeting, expense tracking, investment portfolio management, and financial goal setting.
@@ -9,9 +8,7 @@
 
 ## Landing/Home Page
 
-![image](https://user-images.githubusercontent.com/73344382/219834084-96ca30be-5ba2-4bd0-abeb-067d68b8eaa9.png)
-![image](https://user-images.githubusercontent.com/73344382/219834160-a9154c1e-40ca-4ae6-9bd5-ec584d5936f3.png)
-![image](https://user-images.githubusercontent.com/73344382/219834291-2f05e93a-d09c-4e17-92f1-1093707f818a.png)
+
 ![image](https://user-images.githubusercontent.com/73344382/219834335-a22a0a4d-e111-47c7-818a-cc5a6407b7ba.png)
 
 ## Budget and Expense Tracker
