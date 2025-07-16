@@ -33,12 +33,3 @@
 ![image](https://user-images.githubusercontent.com/73344382/219835380-6ef68875-829b-4997-9c35-b3940df0fdb3.png)
 ![image](https://user-images.githubusercontent.com/73344382/219835428-e01e02f9-9a45-413d-aff2-9d7711892e63.png)
 
-`This repository contains only the front end part,You can view the full repository` [here](https://github.com/elucidator8918/HackNiche_Code-Crafters)
-
-<hr>
-
-### Team Members
-- [Hemant Singh](https://github.com/HemantS404)
-- [Hetansh Shah](https://github.com/Hetens)
-- [Siddhant Dutta](https://github.com/elucidator8918)
-
