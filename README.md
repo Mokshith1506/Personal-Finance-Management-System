@@ -6,7 +6,7 @@
 
 
 
-## Landing/Home Page
+## Home Page
 
 
 ![image](https://user-images.githubusercontent.com/73344382/219834335-a22a0a4d-e111-47c7-818a-cc5a6407b7ba.png)
